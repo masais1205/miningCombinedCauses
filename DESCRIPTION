@@ -1,0 +1,12 @@
+Package: mhpc
+Type: Package
+Title: Mining combined causes
+Version: 1.0
+Date: 2015-10-02
+Author: Saisai Ma
+Maintainer: Saisai Ma <maysy020@mymail.unisa.edu.au>
+Description: This package implements to find single and combined causes
+License: GPLv3
+Archs: i386, x64
+RoxygenNote: 6.0.1
+Imports: methods
